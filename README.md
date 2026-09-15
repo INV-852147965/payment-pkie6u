@@ -1,8 +1,10 @@
 15/09/2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: dsaunders816@earthlink.net, awein78620@aol.com
-At: 2026-09-15 21:09:55
-Id: 2QKoRCRe
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: jaraltm@aol.com, dawnsatl@yahoo.com
+At: 2026-09-15 21:10:34
+Id: eoLxbE3t
